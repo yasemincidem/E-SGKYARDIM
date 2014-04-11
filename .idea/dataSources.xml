@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails E-SGK: development" uuid="c16bbaf6-c5de-4a7e-8420-1ee39118c9ec">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/yakut_development</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/sgk_development</jdbc-url>
       <user-name>postgres</user-name>
       <user-password>dfdbdfdddfcfdfd8dfde</user-password>
       <libraries />

@@ -1,6 +1,6 @@
 development:
   adapter: postgresql
-  database: yakut_development
+  database: sgk_development
   username: postgres
   password: qwert
   encoding: utf8
