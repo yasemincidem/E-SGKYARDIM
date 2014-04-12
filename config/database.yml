@@ -2,7 +2,7 @@ development:
   adapter: postgresql
   database: sgk_development
   username: postgres
-  password: qwert
+  password: belali26
   encoding: utf8
   min_messages: warning
   pool: 5

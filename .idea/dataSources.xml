@@ -6,7 +6,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1:5432/sgk_development</jdbc-url>
       <user-name>postgres</user-name>
-      <user-password>dfdbdfdddfcfdfd8dfde</user-password>
+      <user-password>dfc8dfcfdfc6dfcbdfc6dfc3df98df9c</user-password>
       <libraries />
     </data-source>
   </component>
